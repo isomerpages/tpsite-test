@@ -5,11 +5,6 @@ permalink: /enquiry
 
 
 
-
-
-
-
-
 <tr valign="top">
                   <td><table border="0" cellspacing="0" cellpadding="1">
                     <tr>
@@ -205,9 +200,11 @@ permalink: /enquiry
 					  
 </td>
 </tr>
-</table></td>
+</table>
+	</td>
 </tr>
-</table></td>
+</table>
+</td>
 </tr>
 <tr>
 </table>
