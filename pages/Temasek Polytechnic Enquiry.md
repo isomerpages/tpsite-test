@@ -195,13 +195,6 @@ permalink: /enquiry
                       <td width="10" align="left" valign="top">&nbsp;</td>
                       <td width="320" align="left" valign="top">
 					  
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
+
 <tr>
 </table>
