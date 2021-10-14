@@ -2,12 +2,12 @@
 title: Temasek Polytechnic Enquiry
 permalink: /enquiry
 ---
-  <tr valign="top">
+<tr valign="top">
                   <td><table border="0" cellspacing="0" cellpadding="1">
                     <tr>
                       <td width="500" align="left" valign="top"><table  border="0" cellpadding="3" cellspacing="0" class="message">
                         <tr valign="top">
-                          <td colspan="3" class="messageContactTitle">General Contact</td>
+                          <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>General Contact<u></td>
                         </tr>
                         <tr valign="top">
                           <td><strong>Tel</strong></td>
@@ -34,7 +34,7 @@ permalink: /enquiry
                       
 <table  border="0" cellpadding="3" cellspacing="0" class="message">
                         <tr valign="top">
-                          <td colspan="3" class="messageContactTitle">Full-time Courses Contact </td>
+                          <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Full-time Courses Contact<u> </td>
                         </tr>
                         <tr valign="top">
                           <td><strong>Tel</strong></td>
@@ -67,7 +67,7 @@ permalink: /enquiry
 
 <table  border="0" cellpadding="3" cellspacing="0" class="message">
                           <tr valign="top">
-                            <td colspan="3" class="messageContactTitle">Part-time Courses Contact </td>
+                            <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Part-time Courses Contact </u></td>
                           </tr>
                           <tr valign="top">
                             <td width="36"><strong>Tel</strong></td>
@@ -94,7 +94,7 @@ permalink: /enquiry
             
 <table  border="0" cellpadding="3" cellspacing="0" class="message">
                           <tr valign="top">
-                            <td colspan="3" class="messageContactTitle">Security Industry Institute Contact</td>
+                            <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Security Industry Institute Contact</u></td>
                           </tr>
                           <tr valign="top">
                             <td width="36"><strong>Tel</strong></td>
@@ -119,7 +119,7 @@ permalink: /enquiry
 
 <table  border="0" cellpadding="3" cellspacing="0" class="message">
 							<tr valign="top">
-							  <td colspan="3" class="messageContactTitle">Library Contact </td>
+								<td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Library Contact</u> </td>
 							</tr>
 							<tr valign="top">
 							  <td width="38"><strong>Tel</strong></td>
@@ -142,7 +142,7 @@ permalink: /enquiry
 						</table>
 					  <table  border="0" cellpadding="3" cellspacing="0" class="message">
 						<tr valign="top">
-						  <td colspan="3" class="messageContactTitle">Alumnus Contact </td>
+							<td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Alumnus Contact</u> </td>
 						</tr>
 						<tr valign="top">
 						  <td><strong>Tel</strong></td>
@@ -166,7 +166,7 @@ permalink: /enquiry
             
 <table  border="0" cellpadding="3" cellspacing="0" class="message">
                         <tr valign="top">
-                          <td colspan="3" class="messageContactTitle">Careers</td>
+                          <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Careers</u></td>
                         </tr>
                         <tr valign="top">
                           <td colspan="3">To view <strong>TP's vacancies</strong>, <a href="https://careers.pageuppeople.com/688/cwlive/en/#/filter/?brand=temasek polytechnic&search-keyword=&job-mail-subscribe-privacy=agree?brand=temasek polytechnic&search-keyword=&job-mail-subscribe-privacy=agree">please click here</a>.</td>
@@ -184,7 +184,7 @@ permalink: /enquiry
                         </table>
                       <table  border="0" cellpadding="3" cellspacing="0" class="message">
                         <tr valign="top">
-                          <td class="messageContactTitle">TP LMS</td>
+													<td class="messageContactTitle" style=" color:#9c0000"><u>TP LMS</u></td>
                         </tr>
                         <tr valign="top">
                           <td>To access TP LMS, <a href="https://lms.tp.edu.sg/">please click here</a>.</td>
