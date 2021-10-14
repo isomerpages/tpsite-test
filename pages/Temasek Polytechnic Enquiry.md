@@ -30,7 +30,7 @@ permalink: /enquiry
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
                         </tr>
-                      </table>
+</table>
                       
 <table  border="0" cellpadding="3" cellspacing="0" class="message">
                         <tr valign="top">
