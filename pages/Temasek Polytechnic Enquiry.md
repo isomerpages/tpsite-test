@@ -2,6 +2,14 @@
 title: Temasek Polytechnic Enquiry
 permalink: /enquiry
 ---
+
+
+
+
+
+
+
+
 <tr valign="top">
                   <td><table border="0" cellspacing="0" cellpadding="1">
                     <tr>
