@@ -8,4 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/tpmaintenancenewimages/newGears.jpg
+  - infobar:
+      title: Maintenance-In-Progress
+      description: This Temasek Polytechnic website/service is undergoing system
+        maintenance. We apologise for any inconvenience caused.
 ---
