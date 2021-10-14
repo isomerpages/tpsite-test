@@ -195,3 +195,4 @@ permalink: /enquiry
                           <td>To access TP LMS, <a href="https://lms.tp.edu.sg/" style="text-decoration: none;">please click here</a>.</td>
                           </tr>
 </table>
+	a
