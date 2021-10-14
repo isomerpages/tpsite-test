@@ -61,7 +61,7 @@ permalink: /enquiry
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
                         </tr>
-                      </table>
+</table>
 
 
 
@@ -87,7 +87,7 @@ permalink: /enquiry
                             <td>&nbsp;</td>
                             <td>&nbsp;</td>
                           </tr>
-                        </table>       
+</table>       
 
 
 
@@ -111,7 +111,7 @@ permalink: /enquiry
                             <td>&nbsp;</td>
                             <td>&nbsp;</td>
                           </tr>
-                        </table>						
+</table>						
 
 
 
@@ -139,8 +139,9 @@ permalink: /enquiry
 							  <td>&nbsp;</td>
 							  <td>&nbsp;</td>
 							</tr>
-						</table>
-					  <table  border="0" cellpadding="3" cellspacing="0" class="message">
+</table>
+	
+<table  border="0" cellpadding="3" cellspacing="0" class="message">
 						<tr valign="top">
 							<td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Alumnus Contact</u> </td>
 						</tr>
@@ -159,7 +160,7 @@ permalink: /enquiry
 						  <td>&nbsp;</td>
 						  <td>&nbsp;</td>
 						</tr>
-					  </table>
+</table>
 
 
 
@@ -181,23 +182,14 @@ permalink: /enquiry
                         <tr valign="top">
                           <td colspan="3">&nbsp;</td>
                         </tr>
-                        </table>
-                      <table  border="0" cellpadding="3" cellspacing="0" class="message">
+</table>
+	
+<table  border="0" cellpadding="3" cellspacing="0" class="message">
                         <tr valign="top">
 													<td class="messageContactTitle" style=" color:#9c0000"><u>TP LMS</u></td>
                         </tr>
                         <tr valign="top">
                           <td>To access TP LMS, <a href="https://lms.tp.edu.sg/">please click here</a>.</td>
                           </tr>
-                      </table></td>
-                      <td width="10" align="left" valign="top">&nbsp;</td>
-                      <td align="center">&nbsp;</td>
-                      <td width="10" align="left" valign="top">&nbsp;</td>
-                      <td width="320" align="left" valign="top">
-					  </td>
-                    </tr>
-                  </table></td>
-                </tr>
-              </table></td>
-            </tr>
-			<tr>
+</table>
+</td>
