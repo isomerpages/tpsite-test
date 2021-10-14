@@ -3,7 +3,7 @@ url: ""
 favicon: /images/tp-maintence-site-images/TPfavicon.jpg
 colors:
   primary-color: "#e6162f"
-  secondary-color: "#4372d6"
+  secondary-color: "#e6162f"
   media-colors:
     - title: media-color-one
       color: "#49759a"
