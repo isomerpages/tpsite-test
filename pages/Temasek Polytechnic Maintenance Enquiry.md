@@ -2,7 +2,7 @@
 title: Temasek Polytechnic Maintenance Enquiry
 permalink: /enquiry
 ---
-
+<table>
 <tr valign="top">
                   <td><table border="0" cellspacing="0" cellpadding="1">
                     <tr>
