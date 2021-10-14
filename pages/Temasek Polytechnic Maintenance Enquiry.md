@@ -2,9 +2,12 @@
 title: Temasek Polytechnic Maintenance Enquiry
 permalink: /enquiry
 ---
-<table border="0" cellspacing="0" cellpadding="1">
+<tr valign="top">
+                  <td><table border="0" cellspacing="0" cellpadding="1">
                     <tr>
-                      <td width="500" align="left" valign="top"><table  border="0" cellpadding="3" cellspacing="0" class="message">
+                      <td width="500" align="left" valign="top">
+
+<table  border="0" cellpadding="3" cellspacing="0" class="message">
                         <tr valign="top">
                           <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>General Contact</u></td>
                         </tr>
