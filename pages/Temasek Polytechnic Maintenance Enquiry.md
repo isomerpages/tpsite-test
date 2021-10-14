@@ -2,7 +2,6 @@
 title: Temasek Polytechnic Maintenance Enquiry
 permalink: /enquiry
 ---
-
 <tr valign="top">
                   <td><table border="0" cellspacing="0" cellpadding="1">
                     <tr>
@@ -30,7 +29,7 @@ permalink: /enquiry
                           <td nowrap="nowrap">&nbsp;</td>
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
-                        </tr>
+</tr>
 
                       
 <table  border="0" cellpadding="3" cellspacing="0" class="message">
