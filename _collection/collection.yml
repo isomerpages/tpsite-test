@@ -2,5 +2,4 @@ collections:
   collection:
     output: true
     order:
-      - Maintenance.md
       - page.md
