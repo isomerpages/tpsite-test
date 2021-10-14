@@ -7,5 +7,5 @@ permalink: /
 notification: Testing
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/tp-maintence-site-images/background_template.png
 ---
