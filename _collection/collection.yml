@@ -1,5 +1,4 @@
 collections:
   collection:
     output: true
-    order:
-      - page.md
+    order: []
