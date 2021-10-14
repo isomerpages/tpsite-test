@@ -32,7 +32,7 @@ permalink: /enquiry
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
                         </tr>
-												</table>
+</table>
 
                       
 <table  border="0" cellpadding="3" cellspacing="0" class="message">
@@ -195,4 +195,3 @@ permalink: /enquiry
                           <td>To access TP LMS, <a href="https://lms.tp.edu.sg/" style="text-decoration: none;">please click here</a>.</td>
                           </tr>
 </table>
-	
