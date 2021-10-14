@@ -23,8 +23,8 @@ permalink: /enquiry
                         <tr valign="top">
                           <td><strong>Email</strong></td>
                           <td>:</td>
-                          <td nowrap><a href="mailto:enquiry@tp.edu.sg">enquiry@tp.edu.sg</a> (general enquiries)<br />
-                            <a href="mailto:webmaster@tp.edu.sg">webmaster@tp.edu.sg</a> (enquiries/feedback on TP website)</td>
+                          <td nowrap><a href="mailto:enquiry@tp.edu.sg" style="text-decoration: none;" >enquiry@tp.edu.sg</a> (general enquiries)<br />
+                            <a href="mailto:webmaster@tp.edu.sg" style="text-decoration: none;" >webmaster@tp.edu.sg</a> (enquiries/feedback on TP website)</td>
                         </tr>
                         <tr valign="top">
                           <td nowrap="nowrap">&nbsp;</td>
@@ -45,16 +45,16 @@ permalink: /enquiry
                         <tr valign="top">
                           <td><strong>Email</strong></td>
                           <td>:</td>
-                          <td><a href="mailto:admissions@tp.edu.sg">admissions@tp.edu.sg</a> (student admission)<br>
-                            <a href="mailto:examinations@tp.edu.sg">examinations@tp.edu.sg</a> (examination matters)<br>
-                            <a href="mailto:fnahotline@tp.edu.sg">fnahotline@tp.edu.sg</a> (student fee enquiry)<br></td>
+                          <td><a href="mailto:admissions@tp.edu.sg" style="text-decoration: none;">admissions@tp.edu.sg</a> (student admission)<br>
+                            <a href="mailto:examinations@tp.edu.sg" style="text-decoration: none;" >examinations@tp.edu.sg</a> (examination matters)<br>
+                            <a href="mailto:fnahotline@tp.edu.sg" style="text-decoration: none;" >fnahotline@tp.edu.sg</a> (student fee enquiry)<br></td>
                         </tr>
                         <tr valign="top">
                             <td colspan="3">
                                 <br>
-                                To access Full-Time Student Portal, please <a href="https://services.tp.edu.sg/">click here</a> and select "TP Online Student" after login.<br>
+                                To access Full-Time Student Portal, please <a href="https://services.tp.edu.sg/" style="text-decoration: none;">click here</a> and select "TP Online Student" after login.<br>
                                 <br>
-                                For acceptance and enrolment to posted TP courses, <a href="https://petoas.tp.edu.sg/">please click here</a>.
+                                For acceptance and enrolment to posted TP courses, <a href="https://petoas.tp.edu.sg/" style="text-decoration: none;">please click here</a>.
                             </td>
                           </tr>
                         <tr valign="top">
@@ -78,10 +78,10 @@ permalink: /enquiry
                           <tr valign="top">
                             <td><strong>Email</strong></td>
                             <td>:</td>
-                            <td><a href="mailto:tsa@tp.edu.sg">tsa@tp.edu.sg</a><br></td>
+                            <td><a href="mailto:tsa@tp.edu.sg" style="text-decoration: none;">tsa@tp.edu.sg</a><br></td>
                           </tr>
                           <tr valign="top">
-                              <td colspan="3" nowrap="nowrap">To access Part-Time Student Portal, <a href="https://services.tp.edu.sg/">please click here</a> and select "CET Student Portal" after login. </td>
+                              <td colspan="3" nowrap="nowrap">To access Part-Time Student Portal, <a href="https://services.tp.edu.sg/" style="text-decoration: none;">please click here </a> and select "CET Student Portal" after login. </td>
                           </tr>
                           <tr valign="top">
                             <td nowrap="nowrap">&nbsp;</td>
@@ -105,7 +105,7 @@ permalink: /enquiry
                           <tr valign="top">
                             <td><strong>Email</strong></td>
                             <td>:</td>
-                            <td><a href="mailto:sii@tp.edu.sg">sii@tp.edu.sg</a><br></td>
+                            <td><a href="mailto:sii@tp.edu.sg" style="text-decoration: none;" >sii@tp.edu.sg </a><br></td>
                           </tr>
                           <tr valign="top">
                             <td nowrap="nowrap">&nbsp;</td>
@@ -130,10 +130,10 @@ permalink: /enquiry
 							<tr valign="top">
 							  <td><strong>Email</strong></td>
 							  <td>:</td>
-							  <td><a href="mailto:asklib@tp.edu.sg">asklib@tp.edu.sg</a></td>
+							  <td><a href="mailto:asklib@tp.edu.sg" style="text-decoration: none;" >asklib@tp.edu.sg</a></td>
 							</tr>
 							<tr valign="top">
-							  <td colspan="3">To access LIBSearch, <a href="https://tp-libsearch.hosted.exlibrisgroup.com/primo-explore/search?vid=TPL&tab=lib_catalogue_tab&sortby=rank">please click here</a>. </td>
+							  <td colspan="3">To access LIBSearch, <a href="https://tp-libsearch.hosted.exlibrisgroup.com/primo-explore/search?vid=TPL&tab=lib_catalogue_tab&sortby=rank" style="text-decoration: none;" > please click here</a>. </td>
 							  </tr>
 							<tr valign="top">
 							  <td nowrap="nowrap">&nbsp;</td>
@@ -154,7 +154,7 @@ permalink: /enquiry
 						<tr valign="top">
 						  <td><strong>Email</strong></td>
 						  <td>:</td>
-						  <td><a href="mailto:alumni@tp.edu.sg">alumni@tp.edu.sg</a></td>
+						  <td><a href="mailto:alumni@tp.edu.sg" style="text-decoration: none;" >alumni@tp.edu.sg</a></td>
 						</tr>
 						<tr valign="top">
 						  <td nowrap="nowrap">&nbsp;</td>
@@ -171,10 +171,10 @@ permalink: /enquiry
                           <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Careers</u></td>
                         </tr>
                         <tr valign="top">
-                          <td colspan="3">To view <strong>TP's vacancies</strong>, <a href="https://careers.pageuppeople.com/688/cwlive/en/#/filter/?brand=temasek polytechnic&search-keyword=&job-mail-subscribe-privacy=agree?brand=temasek polytechnic&search-keyword=&job-mail-subscribe-privacy=agree">please click here</a>.</td>
+                          <td colspan="3">To view <strong>TP's vacancies</strong>, <a href="https://careers.pageuppeople.com/688/cwlive/en/#/filter/?brand=temasek polytechnic&search-keyword=&job-mail-subscribe-privacy=agree?brand=temasek polytechnic&search-keyword=&job-mail-subscribe-privacy=agree" style="text-decoration: none;">please click here</a>.</td>
                         </tr>
                         <tr valign="top">
-                          <td colspan="3">Interested applicants, please email your resumes to <a href="mailto:career@tp.edu.sg">career@tp.edu.sg</a>.</td>
+                          <td colspan="3">Interested applicants, please email your resumes to <a href="mailto:career@tp.edu.sg" style="text-decoration: none;">career@tp.edu.sg</a>.</td>
                         </tr>
                         <tr valign="top">
                           <td colspan="3"><br>
@@ -190,6 +190,6 @@ permalink: /enquiry
 													<td class="messageContactTitle" style=" color:#9c0000"><u>TP LMS</u></td>
                         </tr>
                         <tr valign="top">
-                          <td>To access TP LMS, <a href="https://lms.tp.edu.sg/">please click here</a>.</td>
+                          <td>To access TP LMS, <a href="https://lms.tp.edu.sg/" style="text-decoration: none;">please click here</a>.</td>
                           </tr>
 </table>
