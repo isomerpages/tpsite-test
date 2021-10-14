@@ -12,4 +12,6 @@ sections:
       title: Maintenance-In-Progress
       description: This Temasek Polytechnic website/service is undergoing system
         maintenance. We apologise for any inconvenience caused.
+      button: --- Enquiries ---
+      url: s
 ---
