@@ -32,7 +32,7 @@ permalink: /enquiry
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
                         </tr>
-
+												</table>
 
                       
 <table  border="0" cellpadding="3" cellspacing="0" class="message">
@@ -196,8 +196,3 @@ permalink: /enquiry
                           </tr>
 </table>
 	
-</td>
-</tr>
-</table>
-</td>
-</tr>
