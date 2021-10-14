@@ -7,5 +7,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/1754609.jpg
+      background: /images/tp-maintence-site-images/background_template.png
 ---
