@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: TP Maintenance Site
+title: ""
 description: Temasek Polytechnic Maintenance Site
 image: /images/isomer-logo.svg
 permalink: /
