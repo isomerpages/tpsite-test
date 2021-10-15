@@ -70,14 +70,10 @@ permalink: /maintenance
                               <td>:</td>
                               <td nowrap><a href="mailto:enquiry@tp.edu.sg" style="text-decoration: none;">enquiry@tp.edu.sg</a> (general
                                 enquiries)<br />
-                                <a href="mailto:webmaster@tp.edu.sg" style="text-decoration: none;">webmaster@tp.edu.sg</a> (enquiries/feedback on TP
-                                website)
+                                <a href="mailto:webmaster@tp.edu.sg" style="text-decoration: none;">webmaster@tp.edu.sg</a> (enquiries/feedback on TP website)
                               </td>
                             </tr>
                             <tr valign="top">
-                              <td nowrap="nowrap">&nbsp;</td>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
                             </tr>
                           </table>
                           <table border="0" cellpadding="3" cellspacing="0" class="message">
@@ -109,9 +105,6 @@ permalink: /maintenance
                               </td>
                             </tr>
                             <tr valign="top">
-                              <td nowrap="nowrap">&nbsp;</td>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
                             </tr>
                           </table>
                           <table border="0" cellpadding="3" cellspacing="0" class="message">
@@ -134,9 +127,6 @@ permalink: /maintenance
                                 Portal" after login. </td>
                             </tr>
                             <tr valign="top">
-                              <td nowrap="nowrap">&nbsp;</td>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
                             </tr>
                           </table>
                           <table border="0" cellpadding="3" cellspacing="0" class="message">
@@ -154,9 +144,6 @@ permalink: /maintenance
                               <td><a href="mailto:sii@tp.edu.sg" style="text-decoration: none;">sii@tp.edu.sg</a><br></td>
                             </tr>
                             <tr valign="top">
-                              <td nowrap="nowrap">&nbsp;</td>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
                             </tr>
                           </table>
                           <table border="0" cellpadding="3" cellspacing="0" class="message">
@@ -179,9 +166,6 @@ permalink: /maintenance
                                   click here</a>. </td>
                             </tr>
                             <tr valign="top">
-                              <td nowrap="nowrap">&nbsp;</td>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
                             </tr>
                           </table>
                           <table border="0" cellpadding="3" cellspacing="0" class="message">
@@ -199,9 +183,6 @@ permalink: /maintenance
                               <td><a href="mailto:alumni@tp.edu.sg" style="text-decoration: none;">alumni@tp.edu.sg</a></td>
                             </tr>
                             <tr valign="top">
-                              <td nowrap="nowrap">&nbsp;</td>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
                             </tr>
                           </table>
                           <table border="0" cellpadding="3" cellspacing="0" class="message">
@@ -221,7 +202,6 @@ permalink: /maintenance
                                 We regret to inform that only shortlisted candidates will be notified.</td>
                             </tr>
                             <tr valign="top">
-                              <td colspan="3">&nbsp;</td>
                             </tr>
                           </table>
                           <table border="0" cellpadding="3" cellspacing="0" class="message">
