@@ -233,10 +233,7 @@ permalink: /maintenance
                             </tr>
                           </table>
                         </td>
-                        <td width="10" align="left" valign="top">&nbsp;</td>
-                        <td align="center">&nbsp;</td>
-                        <td width="10" align="left" valign="top">&nbsp;</td>
-                        <td width="320" align="left" valign="top">
+												a
                         </td>
                       </tr>
                     </table>
