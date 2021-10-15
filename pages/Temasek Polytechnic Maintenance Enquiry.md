@@ -186,7 +186,7 @@ permalink: /maintenance
                             <tr valign="top">
                             </tr>
                           </table>
-                          <table border="0" cellpadding="3" cellspacing="0" class="message">
+                          <table border="0" cellpadding="1" cellspacing="0" class="message">
                             <tr valign="top">
                               <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Careers</u></td>
                             </tr>
