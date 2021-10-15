@@ -16,7 +16,8 @@ permalink: /maintenance
                         <tr valign="top">
 													
 ![Alt text for image on Isomer site](/images/tp-maintence-site-images/temp_gears.gif)
-                          <td>
+													
+<td>
                             <table width="100%" border="0" cellspacing="0" cellpadding="1">
                               <tr>
                                 <td align="left" valign="top">
