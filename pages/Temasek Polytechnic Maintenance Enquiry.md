@@ -14,12 +14,12 @@ permalink: /maintenance
                     <div align="center">
                       <table border="0" align="left" cellpadding="0" cellspacing="0">
                         <tr valign="top">
-                          <td align="left"><img width="102" height="133" >![Alt text for image on Isomer site](/images/tp-maintence-site-images/temp_gears.gif)</img></td>
+                          <td align="left">![Alt text for image on Isomer site](/images/tpmaintenancenewimages/rsz_temp_gears.gif)</td>
                           <td bgcolor=""><img src="![Alt text for image on Isomer site](/images/tp-maintence-site-images/space.gif)" width="10" height="1" /></td>
                           <td>
                             <table width="100%" border="0" cellspacing="0" cellpadding="1">
                               <tr>
-                                <td align="left" valign="top"><img src="![Alt text for image on Isomer site](/images/tp-maintence-site-images/logo.gif)" /></td>
+                                <td align="left" valign="top">![Alt text for image on Isomer site](/images/tp-maintence-site-images/logo.gif)</td>
                               </tr>
                               <tr>
                                 <td align="left" valign="top">&nbsp;</td>
