@@ -96,7 +96,6 @@ permalink: /maintenance
                             </tr>
                             <tr valign="top">
                               <td colspan="3">
-                                <br>
                                 To access Full-Time Student Portal, please <a href="https://services.tp.edu.sg/" style="text-decoration: none;">click
                                   here</a> and select "TP Online Student" after login.<br>
                                 <br>
@@ -198,7 +197,7 @@ permalink: /maintenance
                                   href="mailto:career@tp.edu.sg" style="text-decoration: none;" >career@tp.edu.sg</a></td>
                             </tr>
                             <tr valign="top">
-                              <td colspan="3"><br>
+                              <td colspan="3">
                                 We regret to inform that only shortlisted candidates will be notified.</td>
                             </tr>
                             <tr valign="top">
