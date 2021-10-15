@@ -223,9 +223,3 @@ permalink: /maintenance
                   </td>
                 </tr>
               </table>
-							
-							
-							
-							
-							
-							
