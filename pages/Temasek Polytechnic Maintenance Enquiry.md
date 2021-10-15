@@ -2,8 +2,50 @@
 title: Temasek Polytechnic Maintenance Enquiry
 permalink: /maintenance
 ---
-
 <table border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+      <td vAlign="top" align="left" height="50">
+<table width="100%" border="0" align="center" height="100%">
+          <tr>
+            <td valign="middle">
+              <table border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr valign="top">
+                  <td>
+                    <div align="center">
+                      <table border="0" align="left" cellpadding="0" cellspacing="0">
+                        <tr valign="top">
+                          <td align="left"><img src="images/temp_gears.gif" width="102" height="133" /></td>
+                          <td bgcolor=""><img src="images/space.gif" width="10" height="1" /></td>
+                          <td>
+                            <table width="100%" border="0" cellspacing="0" cellpadding="1">
+                              <tr>
+                                <td align="left" valign="top"><img src="images/logo.gif" /></td>
+                              </tr>
+                              <tr>
+                                <td align="left" valign="top">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td align="left" valign="top"><span class="messageTitle"> Maintenance-In-Progress</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="left" valign="top">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td align="left" valign="top">This Temasek Polytechnic website/service is undergoing
+                                  system maintenance.<br>
+                                  We apologise for any inconvenience caused.</td>
+                              </tr>
+                              <tr>
+                                <td align="left" valign="top">&nbsp;</td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                  </td>
+                </tr>
                 <tr valign="top">
                   <td>
                     <table border="0" cellspacing="0" cellpadding="1">
@@ -63,7 +105,7 @@ permalink: /maintenance
                                   here</a> and select "TP Online Student" after login.<br>
                                 <br>
                                 For acceptance and enrolment to posted TP courses, <a
-                                  href="https://petoas.tp.edu.sg/">please click here</a>.
+                                  href="https://petoas.tp.edu.sg/" style="text-decoration: none;" >please click here</a>.
                               </td>
                             </tr>
                             <tr valign="top">
@@ -88,7 +130,7 @@ permalink: /maintenance
                             </tr>
                             <tr valign="top">
                               <td colspan="3" nowrap="nowrap">To access Part-Time Student Portal, <a
-                                  href="https://services.tp.edu.sg/">please click here</a> and select "CET Student
+                                  href="https://services.tp.edu.sg/" style="text-decoration: none;">please click here</a> and select "CET Student
                                 Portal" after login. </td>
                             </tr>
                             <tr valign="top">
