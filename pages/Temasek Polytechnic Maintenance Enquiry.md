@@ -209,8 +209,7 @@ permalink: /maintenance
                               <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Careers</u></td>
                             </tr>
                             <tr valign="top">
-                              <td colspan="3">To view <strong>TP's vacancies</strong>, <a
-                                  href="https://careers.pageuppeople.com/688/cwlive/en/#/filter/?brand=temasek polytechnic&search-keyword=&job-mail-subscribe-privacy=agree?brand=temasek polytechnic&search-keyword=&job-mail-subscribe-privacy=agree" style="text-decoration: none;">please
+                              <td colspan="3">To view <strong>TP's vacancies</strong>, <a href="https://careers.pageuppeople.com/688/cwlive/en/#/filter/?brand=temasek polytechnic&search-keyword=&job-mail-subscribe-privacy=agree?brand=temasek polytechnic&search-keyword=&job-mail-subscribe-privacy=agree" style="text-decoration: none;">please
                                   click here</a></td>
                             </tr>
                             <tr valign="top">
