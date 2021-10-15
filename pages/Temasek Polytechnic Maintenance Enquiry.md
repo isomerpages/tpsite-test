@@ -230,10 +230,10 @@ permalink: /maintenance
                             </tr>
                             <tr valign="top">
                               <td>To access TP LMS, <a href="https://lms.tp.edu.sg/" style="text-decoration: none;">please click here</a></td>
+															a
                             </tr>
                           </table>
                         </td>
-												a
                         </td>
                       </tr>
                     </table>
