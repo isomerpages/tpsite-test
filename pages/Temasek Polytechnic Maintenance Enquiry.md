@@ -32,7 +32,6 @@ permalink: /maintenance
                                 </td>
                               </tr>
                               <tr>
-                                <td align="left" valign="top">&nbsp;</td>
                               </tr>
                               <tr>
                                 <td align="left" valign="top">This Temasek Polytechnic website/service is undergoing
