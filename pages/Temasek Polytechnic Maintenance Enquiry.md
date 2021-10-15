@@ -2,7 +2,6 @@
 title: Temasek Polytechnic Maintenance Enquiry
 permalink: /maintenance
 ---
-
 <table border="0" align="center" cellpadding="0" cellspacing="0" style="font-size: 12px; overflow-x: hidden;" >
 <tr>
       <td valign="top" align="left" height="50">
@@ -15,6 +14,7 @@ permalink: /maintenance
                     <div align="center">
                       <table border="0" align="left" cellpadding="0" cellspacing="0">
                         <tr valign="top">
+													
 ![Alt text for image on Isomer site](/images/tp-maintence-site-images/temp_gears.gif)
                           <td>
                             <table width="100%" border="0" cellspacing="0" cellpadding="1">
