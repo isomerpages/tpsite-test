@@ -198,3 +198,10 @@ permalink: /enquiry
                           <td>To access TP LMS, <a href="https://lms.tp.edu.sg/" style="text-decoration: none;">please click here</a>.</td>
                           </tr>
 </table>
+</td>
+                        <td width="10" align="left" valign="top">&nbsp;</td>
+                        <td align="center">&nbsp;</td>
+                        <td width="10" align="left" valign="top">&nbsp;</td>
+                        <td width="320" align="left" valign="top">
+
+</td>
