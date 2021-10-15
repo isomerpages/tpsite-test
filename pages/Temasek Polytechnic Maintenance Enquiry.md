@@ -4,7 +4,7 @@ permalink: /maintenance
 ---
 <table border="0" align="center" cellpadding="0" cellspacing="0" style="overflow: hidden;" >
 <tr>
-      <td vAlign="top" align="left" height="50">
+      <td valign="top" align="left" height="50">
 <table width="100%" border="0" align="center" height="100%">
           <tr>
             <td valign="middle">
