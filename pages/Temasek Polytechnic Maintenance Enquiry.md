@@ -2,7 +2,7 @@
 title: Temasek Polytechnic Maintenance Enquiry
 permalink: /maintenance
 ---
-<table border="0" align="center" cellpadding="0" cellspacing="0" style="overflow-x:hidden">
+<table border="0" align="center" cellpadding="0" cellspacing="0" style="overflow-x:hidden" >
 <tr>
       <td vAlign="top" align="left" height="50">
 <table width="100%" border="0" align="center" height="100%">
@@ -161,7 +161,7 @@ permalink: /maintenance
                             </tr>
                             <tr valign="top">
                               <td colspan="3">To access LIBSearch, <a
-                                  href="https://tp-libsearch.hosted.exlibrisgroup.com/primo-explore/search?vid=TPL&tab=lib_catalogue_tab&sortby=rank">please
+                                  href="https://tp-libsearch.hosted.exlibrisgroup.com/primo-explore/search?vid=TPL&tab=lib_catalogue_tab&sortby=rank" style="text-decoration: none;">please
                                   click here</a>. </td>
                             </tr>
                             <tr valign="top">
