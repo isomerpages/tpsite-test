@@ -16,11 +16,12 @@ permalink: /maintenance
                         <tr valign="top">
 													
 ![Alt text for image on Isomer site](/images/gears.gif)
-                          <td bgcolor="">![space](/images/tpmaintenancenewimages/space.jpg)</td>
                           <td>
                             <table width="100%" border="0" cellspacing="0" cellpadding="1">
                               <tr>
-                                <td align="left" valign="top">![TPlogo](/images/tp-maintence-site-images/logo.gif)</td>
+                                <td align="left" valign="top">
+																	![TPlogo](/images/tp-maintence-site-images/logo.gif)
+																</td>
                               </tr>
                               <tr>
                                 <td align="left" valign="top">&nbsp;</td>
