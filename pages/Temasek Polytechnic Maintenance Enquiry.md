@@ -14,8 +14,7 @@ permalink: /maintenance
                     <div align="center">
                       <table border="0" align="left" cellpadding="0" cellspacing="0">
                         <tr valign="top">
-													
-![Alt text for image on Isomer site](/images/gears.gif)
+![Alt text for image on Isomer site](/images/tp-maintence-site-images/temp_gears.gif)
                           <td>
                             <table width="100%" border="0" cellspacing="0" cellpadding="1">
                               <tr>
@@ -27,7 +26,9 @@ permalink: /maintenance
                                 <td align="left" valign="top">&nbsp;</td>
                               </tr>
                               <tr>
-                                <td align="left" valign="top"><span class="messageTitle"> Maintenance-In-Progress</span>
+                                <td align="left" valign="top"><span class="messageTitle" style="COLOR: #9c0000;
+    FONT-SIZE: 20px;
+    FONT-WEIGHT: bold;"> Maintenance-In-Progress</span>
                                 </td>
                               </tr>
                               <tr>
