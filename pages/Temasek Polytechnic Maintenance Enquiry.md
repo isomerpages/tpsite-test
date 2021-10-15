@@ -33,8 +33,8 @@ permalink: /enquiry
                           <td nowrap="nowrap">&nbsp;</td>
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
-                        </tr>
-												</table>
+</tr>
+</table>
 
 
                       
@@ -198,4 +198,3 @@ permalink: /enquiry
                           <td>To access TP LMS, <a href="https://lms.tp.edu.sg/" style="text-decoration: none;">please click here</a>.</td>
                           </tr>
 </table>
-												</table>
