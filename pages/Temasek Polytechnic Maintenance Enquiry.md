@@ -14,7 +14,8 @@ permalink: /maintenance
                     <div align="center">
                       <table border="0" align="left" cellpadding="0" cellspacing="0">
                         <tr valign="top">
-                          <td align="left">![Gears](/images/tpmaintenancenewimages/rsz_temp_gears.gif)</td>
+													
+![Alt text for image on Isomer site](/images/gears.gif)
                           <td bgcolor="">![space](/images/tpmaintenancenewimages/space.jpg)</td>
                           <td>
                             <table width="100%" border="0" cellspacing="0" cellpadding="1">
@@ -222,3 +223,9 @@ permalink: /maintenance
                   </td>
                 </tr>
               </table>
+							
+							
+							
+							
+							
+							
