@@ -2,7 +2,6 @@
 title: Temasek Polytechnic Maintenance Enquiry
 permalink: /maintenance
 ---
-<body style="overflow-x:hidden" >
 <table border="0" align="center" cellpadding="0" cellspacing="0" style="overflow-x:hidden" >
 <tr>
       <td vAlign="top" align="left" height="50">
@@ -223,4 +222,3 @@ permalink: /maintenance
                   </td>
                 </tr>
               </table>
-	</body>
