@@ -56,7 +56,7 @@ permalink: /maintenance
                         <td width="500" align="left" valign="top">
                           <table border="0" cellpadding="3" cellspacing="0" class="message">
                             <tr valign="top">
-                              <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>General Contact</u></td>
+                              <td colspan="3" class="messageContactTitle" style=" color:#9c0000; font-weight: bold;" ><u>General Contact</u></td>
                             </tr>
                             <tr valign="top">
                               <td><strong>Tel</strong></td>
@@ -81,7 +81,7 @@ permalink: /maintenance
                           </table>
                           <table border="0" cellpadding="3" cellspacing="0" class="message">
                             <tr valign="top">
-                              <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Full-time Courses Contact</u> </td>
+                              <td colspan="3" class="messageContactTitle" style=" color:#9c0000; font-weight: bold;"><u>Full-time Courses Contact</u> </td>
                             </tr>
                             <tr valign="top">
                               <td><strong>Tel</strong></td>
@@ -111,7 +111,7 @@ permalink: /maintenance
                           </table>
                           <table border="0" cellpadding="3" cellspacing="0" class="message">
                             <tr valign="top">
-                              <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Part-time Courses Contact</u> </td>
+                              <td colspan="3" class="messageContactTitle" style=" color:#9c0000; font-weight: bold;"><u>Part-time Courses Contact</u> </td>
                             </tr>
                             <tr valign="top">
                               <td width="36"><strong>Tel</strong></td>
@@ -133,7 +133,7 @@ permalink: /maintenance
                           </table>
                           <table border="0" cellpadding="3" cellspacing="0" class="message">
                             <tr valign="top">
-                              <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Security Industry Institute Contact</u></td>
+                              <td colspan="3" class="messageContactTitle" style=" color:#9c0000; font-weight: bold; "><u>Security Industry Institute Contact</u></td>
                             </tr>
                             <tr valign="top">
                               <td width="36"><strong>Tel</strong></td>
@@ -150,7 +150,7 @@ permalink: /maintenance
                           </table>
                           <table border="0" cellpadding="3" cellspacing="0" class="message">
                             <tr valign="top">
-                              <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Library Contact</u> </td>
+                              <td colspan="3" class="messageContactTitle" style=" color:#9c0000; font-weight: bold; "><u>Library Contact</u> </td>
                             </tr>
                             <tr valign="top">
                               <td width="38"><strong>Tel</strong></td>
@@ -172,7 +172,7 @@ permalink: /maintenance
                           </table>
                           <table border="0" cellpadding="3" cellspacing="0" class="message">
                             <tr valign="top">
-                              <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Alumnus Contact</u> </td>
+                              <td colspan="3" class="messageContactTitle" style=" color:#9c0000; font-weight: bold; "><u>Alumnus Contact</u> </td>
                             </tr>
                             <tr valign="top">
                               <td><strong>Tel</strong></td>
@@ -189,7 +189,7 @@ permalink: /maintenance
                           </table>
                           <table border="0" cellpadding="1" cellspacing="0" class="message">
                             <tr valign="top">
-                              <td colspan="3" class="messageContactTitle" style=" color:#9c0000"><u>Careers</u></td>
+                              <td colspan="3" class="messageContactTitle" style=" color:#9c0000; font-weight: bold; "><u>Careers</u></td>
                             </tr>
                             <tr valign="top">
                               <td colspan="3">To view <strong>TP's vacancies</strong>, <a href="https://careers.pageuppeople.com/688/cwlive/en/#/filter/?brand=temasek polytechnic&search-keyword=&job-mail-subscribe-privacy=agree?brand=temasek polytechnic&search-keyword=&job-mail-subscribe-privacy=agree" style="text-decoration: none;">please
@@ -208,7 +208,7 @@ permalink: /maintenance
                           </table>
                           <table border="0" cellpadding="3" cellspacing="0" class="message">
                             <tr valign="top">
-                              <td class="messageContactTitle" style=" color:#9c0000" ><u>TP LMS</u></td>
+                              <td class="messageContactTitle" style=" color:#9c0000; font-weight: bold; " ><u>TP LMS</u></td>
                             </tr>
                             <tr valign="top">
                               <td>To access TP LMS, <a href="https://lms.tp.edu.sg/" style="text-decoration: none;">please click here</a></td>
