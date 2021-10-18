@@ -2,4 +2,5 @@
 title: image
 permalink: /image
 ---
-![Alt text for image on Isomer site](/images/gears.gif)
+<img  style="width:100px; height:100px "  src="![paris](/images/gears.gif)">
+</img>
