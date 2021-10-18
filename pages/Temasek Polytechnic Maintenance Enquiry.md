@@ -22,7 +22,7 @@ permalink: /maintenance
                                 <td align="left" valign="top"><img style="width:159px; height:45px; float:left;" src="/images/tp-maintence-site-images/logo.gif" /></td>
                               </tr>
                               <tr>
-                                <td align="left" valign="top"></td>
+                                <td align="left" valign="top">&nbsp;</td>
                               </tr>
                               <tr>
                                 <td align="left" valign="top"><span class="messageTitle" style="COLOR: #9c0000;
@@ -38,7 +38,7 @@ permalink: /maintenance
                                   We apologise for any inconvenience caused.</td>
                               </tr>
                               <tr>
-                                <td align="left" valign="top"></td>
+                                <td align="left" valign="top">&nbsp;</td>
                               </tr>
                             </table>
                           </td>
