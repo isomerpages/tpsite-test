@@ -19,7 +19,7 @@ permalink: /maintenance
 <td>
                             <table width="100%" border="0" cellspacing="0" cellpadding="1" >
                               <tr>
-                                <td align="left" valign="top"><img style="width:159px; height:45px;" src="/images/tp-maintence-site-images/tp_logo.gif" /></td>
+                                <td align="left" valign="top"><img style="width:159px; height:45px;" src="/images/tp-maintence-site-images/logo.gif" /></td>
                               </tr>
                               <tr>
                                 <td align="left" valign="top"></td>
