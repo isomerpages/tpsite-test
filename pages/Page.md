@@ -2,7 +2,6 @@
 title: Page
 permalink: /maintenance
 ---
-
 <table border="0" align="center" cellpadding="0" cellspacing="0" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; overflow-x: hidden;" >
 <tr>
       <td valign="top" align="left" height="50">
