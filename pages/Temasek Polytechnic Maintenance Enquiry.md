@@ -15,15 +15,14 @@ permalink: /maintenance
                       <table border="0" align="left" cellpadding="0" cellspacing="0">
                         <tr valign="top">
   <td align="left"><img src="/images/gears.gif" /></td>
-													<td bgcolor=""><img src="/images/tp-maintence-site-images/space.gif" width="10" height="1" /></td>
+													<td bgcolor=""><img src="/images/tp-maintence-site-images/space.gif" style="width=10px; height=1px ;"/></td>
 <td>
                             <table width="100%" border="0" cellspacing="0" cellpadding="1" >
                               <tr>
-                                <td align="left" valign="top"><img style="width:159px; height:45px;" src="/images/tp-maintence-site-images/tp_logo.gif"  /></td>
-																</td>
+                                <td align="left" valign="top"><img style="width:159px; height:45px;" src="/images/tp-maintence-site-images/tp_logo.gif" /></td>
                               </tr>
                               <tr>
-                                <td align="left" valign="top">&nbsp;</td>
+                                <td align="left" valign="top"></td>
                               </tr>
                               <tr>
                                 <td align="left" valign="top"><span class="messageTitle" style="COLOR: #9c0000;
@@ -39,7 +38,7 @@ permalink: /maintenance
                                   We apologise for any inconvenience caused.</td>
                               </tr>
                               <tr>
-                                <td align="left" valign="top">&nbsp;</td>
+                                <td align="left" valign="top"></td>
                               </tr>
                             </table>
                           </td>
