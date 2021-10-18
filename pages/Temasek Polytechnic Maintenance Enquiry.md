@@ -39,7 +39,7 @@ permalink: /maintenance
                                   We apologise for any inconvenience caused.</td>
                               </tr>
                               <tr>
-                                <td align="left" valign="top">&nbsp;</td>
+                                <td align="left" valign="top"></td>
                               </tr>
                             </table>
                           </td>
