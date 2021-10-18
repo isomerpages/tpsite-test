@@ -14,12 +14,12 @@ permalink: /maintenance
                     <div align="center">
                       <table border="0" align="left" cellpadding="0" cellspacing="0">
                         <tr valign="top">
-  <td align="left"><img src="/images/gears.gif"  width="102" height="133" /></td>
+  <td align="left"><img src="/images/gears.gif" /></td>
 													<td bgcolor=""><img src="/images/tp-maintence-site-images/space.gif" width="10" height="1" /></td>
 <td>
                             <table width="100%" border="0" cellspacing="0" cellpadding="1" >
                               <tr>
-                                <td align="left" valign="top"><img src="/images/tp-maintence-site-images/logo.gif" /></td>
+                                <td align="left" valign="top"><img style="width:159px; height:45px;" src="/images/tp-maintence-site-images/tp_logo.gif"  /></td>
 																</td>
                               </tr>
                               <tr>
