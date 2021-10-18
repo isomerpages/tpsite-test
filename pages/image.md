@@ -2,5 +2,4 @@
 title: image
 permalink: /image
 ---
-<img  style="width:100px; height:100px "  src="![text](/images/gears.gif)">
-</img>
+<img  style="width:300px; height:300px "  src="![text](/images/gears.gif)" />
