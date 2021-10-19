@@ -1,2 +1,4 @@
 logo: /images/tp-maintence-site-images/tplogo.png
-links: []
+links:
+  - title: service
+    url: /permalink
