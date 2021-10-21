@@ -1,6 +1,6 @@
 ---
-layout: search
-title: Search
-permalink: /search/
-breadcrumb: Search
+layout: 
+title: 
+permalink: 
+breadcrumb: 
 ---
