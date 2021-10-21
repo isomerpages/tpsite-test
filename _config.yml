@@ -3,18 +3,18 @@ url: ""
 favicon: /images/tp-maintence-site-images/TPfavicon.jpg
 colors:
   primary-color: "#ffffff"
-  secondary-color: "#4a90e2"
+  secondary-color: "#ffffff"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#ffffff"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#fefefe"
     - title: media-color-three
-      color: "#00838f"
+      color: "#fefefe"
     - title: media-color-four
-      color: "#00838f"
+      color: "#ffffff"
     - title: media-color-five
-      color: "#00838f"
+      color: "#fefefe"
 resources_name: resource
 description: Temasek Polytechnic Maintenance Site
 permalink: none
