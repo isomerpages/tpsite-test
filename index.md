@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/oh.png
+      background: 
   - infobar:
       button: "Maintenance Enquiry "
       url: /maintenance/
