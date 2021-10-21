@@ -8,13 +8,13 @@ colors:
     - title: media-color-one
       color: "#ffffff"
     - title: media-color-two
-      color: "#fefefe"
+      color: "#ffffff"
     - title: media-color-three
-      color: "#fefefe"
+      color: "#ffffff"
     - title: media-color-four
       color: "#ffffff"
     - title: media-color-five
-      color: "#fefefe"
+      color: "#ffffff"
 resources_name: resource
 description: Temasek Polytechnic Maintenance Site
 permalink: none
