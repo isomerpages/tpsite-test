@@ -10,9 +10,9 @@ sections:
       title: TP
       subtitle: TP
   - infobar:
-      title: Home PAge
+      title: Home Page
       subtitle: HomePage
-      description: Home PAge
+      description: Home Page
   - infopic:
       title: Maintanage page
       subtitle: Maintanage page
