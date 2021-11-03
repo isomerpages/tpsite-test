@@ -16,13 +16,13 @@ permalink: /maintenance
                         <tr valign="top">
   <td align="left"><img src="/images/gears.gif" /></td>
 													<td bgcolor=""><img src="/images/tp-maintence-site-images/space.gif" style="width=10px; height=1px ;"/></td>
-<td>
+<td style="padding-top: 0px; padding-bottom: 0px" >
                             <table width="100%" border="0" cellspacing="0" cellpadding="1" >
                               <tr>
-                                <td align="left" valign="top"><img style="width:159px; height:45px; float:left;" src="/images/tp-maintence-site-images/space.gif" /></td>
+                                <td align="left" valign="top" style="padding-top: 0px; padding-bottom: 0px"><img style="width:159px; height:45px; float:left;" src="/images/tp-maintence-site-images/space.gif" /></td>
                               </tr>
                               <tr>
-                                <td align="left" valign="top">&nbsp;</td>
+                                <td align="left" valign="top" style="padding-top: 0px; padding-bottom: 0px">&nbsp;</td>
                               </tr>
                               <tr>
                                 <td align="left" valign="top"><span class="messageTitle" style="COLOR: #9c0000;
