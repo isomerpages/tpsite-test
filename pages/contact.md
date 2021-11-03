@@ -2,8 +2,6 @@
 title: contact
 permalink: /maintenance
 ---
-
-
 <table border="0" align="center" cellpadding="0" cellspacing="0" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; overflow-x: hidden;" >
 <tr>
       <td valign="top" align="left" height="50">
@@ -21,7 +19,7 @@ permalink: /maintenance
 <td>
                             <table width="100%" border="0" cellspacing="0" cellpadding="1" >
                               <tr>
-                                <td align="left" valign="top"><img style="width:159px; height:45px; float:left;" src="/images/tp-maintence-site-images/logo.gif" /></td>
+                                <td align="left" valign="top"><img style="width:159px; height:45px; float:left;" src="/images/tp-maintence-site-images/space.gif" /></td>
                               </tr>
                               <tr>
                                 <td align="left" valign="top">&nbsp;</td>
