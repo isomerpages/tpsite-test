@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: TP
-      subtitle: TP
+      background: /images/newGears.jpg
   - infobar:
       title: Home Page
       subtitle: HomePage
