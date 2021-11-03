@@ -8,17 +8,9 @@ notification: ""
 sections:
   - hero:
       background: /images/newGears.jpg
-  - infobar:
-      title: Home Page
-      subtitle: HomePage
-      description: Home Page
-  - infopic:
-      title: Maintanage page
-      subtitle: Maintanage page
-      description: Maintanage page
-      alt: Image alt text
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      key_highlights:
+        - title: Maintenance page
+          description: This Temasek Polytechnic website/service is undergoing system
+            maintenance.
+          url: ""
 ---
