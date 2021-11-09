@@ -22,21 +22,41 @@ contacts:
           TP courses, please click here.
     title: "Full-time Courses "
   - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: "        "
+  - content:
       - phone: +65 6788 1212
       - email: tsa@tp.edu.sg
       - other: To access Part-Time Student Portal, please click here and select "CET
           Student Portal" after login.
     title: " Part-time Courses "
   - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: "        "
+  - content:
       - phone: +65 6225 5744
       - email: sii@tp.edu.sg
       - other: ""
     title: Security Industry Institute
   - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: "        "
+  - content:
       - phone: +65 6780 5772
       - email: asklib@tp.edu.sg
       - other: To access LIBSearch, please click here.
     title: Library
+  - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: "        "
   - content:
       - phone: +65 6780 5353
       - email: alumni@tp.edu.sg
@@ -45,10 +65,20 @@ contacts:
   - content:
       - phone: ""
       - email: ""
+      - other: ""
+    title: "        "
+  - content:
+      - phone: ""
+      - email: career@tp.edu.sg
       - other: To view TP's vacancies, please click here Interested applicants, please
-          email your resumes to career@tp.edu.sg We regret to inform that only
+          email your resumes to career@tp.edu.sg. We regret to inform that only
           shortlisted candidates will be notified.
     title: Careers
+  - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: "        "
   - content:
       - phone: ""
       - email: ""
