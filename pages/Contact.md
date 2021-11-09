@@ -2,7 +2,7 @@
 title: Contact
 permalink: /maintenance
 ---
-<table border="0" align="center" cellpadding="0" cellspacing="0" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; overflow-x: hidden;" >
+<table border="0" align="center" cellpadding="0" cellspacing="0" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; overflow-x: hidden;" >
 <tr>
       <td valign="top" align="left" height="50">
 <table width="100%" border="0" align="center" height="100%">
