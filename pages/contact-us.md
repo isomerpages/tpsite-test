@@ -19,7 +19,7 @@ contacts:
       - email: admissions@tp.edu.sg
       - other: To access Full-Time Student Portal, please click here and select "TP
           Online Student" after login.  For acceptance and enrolment to posted
-          TP courses, please click <a href="www.youtube.com">here</a>.
+          TP courses, please click here.
     title: "Full-time Courses "
   - content:
       - phone: ""
