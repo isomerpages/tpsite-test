@@ -82,7 +82,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: To access TP LMS, please click <a href="https://lms.tp.edu.sg/" > here
+      - other: To access TP LMS, please <a href="https://lms.tp.edu.sg/" > click  here
           </a>
     title: TP LMS
 ---
