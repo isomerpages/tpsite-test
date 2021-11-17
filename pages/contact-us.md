@@ -16,9 +16,11 @@ contacts:
       - other: ""
     title: "        "
   - content:
-      - phone: +65 6788 2000
-      - email: admissions@tp.edu.sg
-      - other: To access Full-Time Student Portal, please <a
+      - phone: ""
+      - email: ""
+      - other: +65 6788 2000<br> <a
+          href="mailto:admissions@tp.edu.sg">admissions@tp.edu.sg </a> <br>To
+          access Full-Time Student Portal, please <a
           href="https://services.tp.edu.sg/">click here </a> and select "TP
           Online Student" after login. <p/> For acceptance and enrolment to
           posted TP courses, please <a href="https://petoas.tp.edu.sg/">click
@@ -42,9 +44,9 @@ contacts:
       - other: ""
     title: "        "
   - content:
-      - phone: +65 6225 5744
-      - email: sii@tp.edu.sg
-      - other: ""
+      - phone: ""
+      - email: ""
+      - other: +65 6225 5744 <br> <a href="mailto:sii@tp.edu.sg"> sii@tp.edu.sg </a>
     title: Security Industry Institute
   - content:
       - phone: ""
@@ -52,9 +54,10 @@ contacts:
       - other: ""
     title: "        "
   - content:
-      - phone: +65 6780 5772
-      - email: asklib@tp.edu.sg
-      - other: To access LIBSearch, please <a
+      - phone: ""
+      - email: ""
+      - other: +65 6780 5772 <br> <a href="mailto:asklib@tp.edu.sg">
+          asklib@tp.edu.sg</a><br> To access LIBSearch, please <a
           href="https://tp-libsearch.hosted.exlibrisgroup.com/primo-explore/search?vid=TPL&tab=lib_catalogue_tab&sortby=rank">
           click here. </a>
     title: Library
@@ -64,9 +67,10 @@ contacts:
       - other: ""
     title: "        "
   - content:
-      - phone: +65 6780 5353
-      - email: alumni@tp.edu.sg
-      - other: ""
+      - phone: ""
+      - email: ""
+      - other: +65 6780 5353 <br> <a href="mailto:alumni@tp.edu.sg">alumni@tp.edu.sg
+          </a>
     title: " Alumnus "
   - content:
       - phone: ""
