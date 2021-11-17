@@ -6,8 +6,8 @@ agency_name: ""
 contacts:
   - content:
       - phone: +65 6788 2000
-      - email: enquiry@tp.edu.sg
-      - email: webmaster@tp.edu.sg
+      - email: enquiry@tp.edu.sg (general enquiries)
+      - email: webmaster@tp.edu.sg (enquiries/feedback on TP website)
       - other: ""
     title: General Contact
   - content:
@@ -17,7 +17,9 @@ contacts:
     title: "        "
   - content:
       - phone: +65 6788 2000
-      - email: admissions@tp.edu.sg
+      - email: admissions@tp.edu.sg (student admission)
+      - email: examinations@tp.edu.sg (examination matters)
+      - email: fnahotline@tp.edu.sg (student fee enquiry)
       - other: To access Full-Time Student Portal, please <a href="https://services.tp.edu.sg/">click here </a> and
           select "TP Online Student" after login. <p/> For acceptance and enrolment
           to posted TP courses, please <a href="https://petoas.tp.edu.sg/">click here.</a>
