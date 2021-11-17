@@ -5,9 +5,9 @@ permalink: /contact-us/
 
 contacts:
   - content:
-      - phone: +65 6788 2000
-      - email: enquiry@tp.edu.sg
-      - other: ""
+      - phone: 
+      - email: 
+      - other: "+65 6788 2000 <br> enquiry@tp.edu.sg (general enquiries) <br> webmaster@tp.edu.sg (enquiries/feedback on TP website)"
     title: General Contact
   - content:
       - phone: ""
