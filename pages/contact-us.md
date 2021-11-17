@@ -19,7 +19,7 @@ contacts:
       - email: admissions@tp.edu.sg
       - other: To access Full-Time Student Portal, please click here and select "TP
           Online Student" after login.  For acceptance and enrolment to posted
-          TP courses, please click here.
+          TP courses, please <a href=" ">click here.</a>
     title: "Full-time Courses "
   - content:
       - phone: ""
@@ -50,7 +50,7 @@ contacts:
   - content:
       - phone: +65 6780 5772
       - email: asklib@tp.edu.sg
-      - other: To access LIBSearch, please click here.
+      - other: To access LIBSearch, please <a href=""> click here </a>.
     title: Library
   - content:
       - phone: ""
