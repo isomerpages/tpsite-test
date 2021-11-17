@@ -19,7 +19,7 @@ contacts:
       - phone: +65 6788 2000
       - email: admissions@tp.edu.sg
       - other: To access Full-Time Student Portal, please <a href="https://services.tp.edu.sg/">click here </a> and
-          select "TP Online Student" after login.  For acceptance and enrolment
+          select "TP Online Student" after login. <p/> For acceptance and enrolment
           to posted TP courses, please <a href="https://petoas.tp.edu.sg/">click here.</a>
     title: "Full-time Courses "
   - content:
