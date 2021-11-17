@@ -30,7 +30,7 @@ contacts:
       - phone: ""
       - email: ""
       - other: ""
-    title: "        "
+    title: "       "
   - content:
       - phone: ""
       - email: ""
