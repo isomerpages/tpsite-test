@@ -17,9 +17,9 @@ contacts:
   - content:
       - phone: +65 6788 2000
       - email: admissions@tp.edu.sg
-      - other: To access Full-Time Student Portal, please click here and select "TP
-          Online Student" after login.  For acceptance and enrolment to posted
-          TP courses, please <a href=" ">click here.</a>
+      - other: To access Full-Time Student Portal, please <a href="">click here </a> and
+          select "TP Online Student" after login.  For acceptance and enrolment
+          to posted TP courses, please <a href=" ">click here.</a>
     title: "Full-time Courses "
   - content:
       - phone: ""
@@ -29,8 +29,8 @@ contacts:
   - content:
       - phone: +65 6788 1212
       - email: tsa@tp.edu.sg
-      - other: To access Part-Time Student Portal, please click here and select "CET
-          Student Portal" after login.
+      - other: To access Part-Time Student Portal, please <a href=" " >click here</a>
+          and select "CET Student Portal" after login.
     title: " Part-time Courses "
   - content:
       - phone: ""
@@ -50,7 +50,7 @@ contacts:
   - content:
       - phone: +65 6780 5772
       - email: asklib@tp.edu.sg
-      - other: To access LIBSearch, please <a href=""> click here </a>.
+      - other: To access LIBSearch, please <a href=""> click here. </a>
     title: Library
   - content:
       - phone: ""
@@ -70,9 +70,9 @@ contacts:
   - content:
       - phone: ""
       - email: career@tp.edu.sg
-      - other: To view TP's vacancies, please click here Interested applicants, please
-          email your resumes to career@tp.edu.sg. We regret to inform that only
-          shortlisted candidates will be notified.
+      - other: To view TP's vacancies, please <a href="">click here. </a> Interested
+          applicants, please email your resumes to career@tp.edu.sg. We regret
+          to inform that only shortlisted candidates will be notified.
     title: Careers
   - content:
       - phone: ""
@@ -82,7 +82,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: To access TP LMS, please <a href="https://lms.tp.edu.sg/" > click  here
-          </a>
+      - other: To access TP LMS, please <a href="https://lms.tp.edu.sg/" >
+          click  here.</a>
     title: TP LMS
 ---
