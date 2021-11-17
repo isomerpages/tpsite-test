@@ -75,10 +75,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "To view TP's vacancies, please <a
-          href="https://cutt.ly/ZTnOKPa">
-          click here. </a> Interested applicants, please email your resumes to
-          <a href="mailto:career@tp.edu.sg"> career@tp.edu.sg.</a> We regret to inform that only shortlisted candidates will be notified."
+      - other: ""
     title: Careers
   - content:
       - phone: ""
