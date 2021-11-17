@@ -82,6 +82,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: To access TP LMS, please click here
+      - other: To access TP LMS, please click <a href="" > here </a>
     title: TP LMS
 ---
