@@ -75,11 +75,13 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: To view TP's vacancies, please <a
-          href="https://careers.pageuppeople.com/688/cwlive/en/#/filter/?brand=temasek
-          polytechnic&search-keyword=&job-mail-subscribe-privacy=agree?brand=temasek
-          polytechnic&search-keyword=&job-mail-subscribe-privacy=agree"> click
-          here. </a> Interested applicants, please email your resumes to <a >
+      - other: "To view TP's vacancies, please <a
+          href=\"https://careers.pageuppeople.com/688/cwlive/en/#/filter/?brand\
+          =temasek
+          polytechnic&search-keyword=&job-mail-subscribe-privacy=agree?brand=te\
+          masek polytechnic&search-keyword=&job-mail-subscribe-privacy=agree\">
+          click here. </a> Interested applicants, please email your resumes to
+          <a href=\"\"> career@tp.edu.sg.</a> "
     title: Careers
   - content:
       - phone: ""
