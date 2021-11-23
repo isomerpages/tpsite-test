@@ -85,11 +85,11 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "<div style=\" width: 1024px;\"> To view TP's vacancies, please
-          <a           href=\"https://cutt.ly/ZTnOKPa\">           click here.
-          </a> Interested applicants, please email your resumes to           <a
-          href=\"mailto:career@tp.edu.sg\"> career@tp.edu.sg.</a> We regret to
-          inform that only shortlisted candidates will be notified. </div>"
+      - other: "<div style=\" width: 1024px;\"> To view TP's vacancies, please <a
+          href=\"https://cutt.ly/ZTnOKPa\"> click here. </a> Interested
+          applicants, please email your resumes to <a
+          href=\"mailto:career@tp.edu.sg\"> career@tp.edu.sg.</a><br>We regret
+          to inform that only shortlisted candidates will be notified. </div>"
     title: Careers
   - content:
       - phone: ""
