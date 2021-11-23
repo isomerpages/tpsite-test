@@ -11,7 +11,7 @@ contacts:
           enquiry) <br> <a
           href="mailto:webmaster@tp.edu.sg">webmaster@tp.edu.sg</a>(enquiry/feedback
           on TP website)</div>'
-    title: General Contact A
+    title: General Contact
   - content:
       - phone: ""
       - email: ""
