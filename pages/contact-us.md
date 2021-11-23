@@ -14,7 +14,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: ""
+      - other: " "
     title: "        "
   - content:
       - phone: ""
@@ -30,7 +30,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: ""
+      - other: " "
     title: "       "
   - content:
       - phone: ""
@@ -43,7 +43,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: ""
+      - other: " "
     title: "        "
   - content:
       - phone: ""
@@ -54,7 +54,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: ""
+      - other: " "
     title: "        "
   - content:
       - phone: ""
@@ -67,7 +67,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: ""
+      - other: " "
     title: "        "
   - content:
       - phone: ""
@@ -78,7 +78,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: ""
+      - other: " "
     title: "        "
   - content:
       - phone: ""
@@ -92,7 +92,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: ""
+      - other: " "
     title: "        "
   - content:
       - phone: ""
