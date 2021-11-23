@@ -14,7 +14,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <br><br><br>website)
+      - other: <div display="inline">aaaa<br>aaaa<br>aaaa</span>
     title: "        "
   - content:
       - phone: ""
