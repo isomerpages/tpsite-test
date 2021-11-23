@@ -13,7 +13,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <br><br><br>ack on TP website)
+      - other: <br><br><br>website)
     title: "        "
   - content:
       - phone: ""
