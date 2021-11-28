@@ -29,13 +29,14 @@ $desktop: 960px + (2 * $gap) !default;
 @mixin desktop() {
     @media screen and (min-width: $desktop){
 	div.custom{
-	    max-width:900px;
+	    width: max-content;
 	    }
     }
 }
 
 	  
 div.custom{
+     max-width:900px;
      font-size:18px;
      word-wrap: break-word;
 }
