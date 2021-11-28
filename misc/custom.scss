@@ -23,6 +23,7 @@ $desktop: 960px + (2 * $gap) !default;
 	@content,
 		div.a{
 		width:auto;
+		font-size: 15px;
 		}
 	}
 }
@@ -32,6 +33,7 @@ $desktop: 960px + (2 * $gap) !default;
 	@content,
 		div.a{
 		width:900px;
+		font-size: 15px;
 		}
 	}
 }
