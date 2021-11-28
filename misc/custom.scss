@@ -16,7 +16,7 @@ $secondary-hover: lighten($secondary, 10%);
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
-// Mixins
+/* Mixins
 @mixin touch() {
     @media screen and (max-width: $desktop - 1px){
         @content;
@@ -31,7 +31,20 @@ $desktop: 960px + (2 * $gap) !default;
         @content;
     }
 }
-	 
+*/
+
+@media screen and (max-width: $desktop - 1px){
+	div.custom{
+	width:95%;
+	}
+}	  
+	  
+@media screen and (min-width: $desktop){
+	div.custom{
+	width:220%;	
+	}
+}
+	  
 div.custom{
      font-size:18px;
 }
