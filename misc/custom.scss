@@ -18,14 +18,6 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Mixins
 
-	  
-@media only screen and (max-width: 768px) {
-	div.custom{
-	font-size:14px;
-	width:auto;
-	}
-}
-
 div.custom{
 	font-size:18px;
 	width:900px
