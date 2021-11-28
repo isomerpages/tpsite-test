@@ -26,11 +26,9 @@ $desktop: 960px + (2 * $gap) !default;
 
 @mixin desktop() {
     @media screen and (min-width: $desktop){
-	    @content{
-		    div.a{
-			    width:900px;
-       			    font-size: 18px;
-		    }
+	div.a{
+	 width:900px;
+       	 font-size: 18px;
 	    }
     }
 } 
