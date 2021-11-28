@@ -20,7 +20,7 @@ $desktop: 960px + (2 * $gap) !default;
 @mixin touch() {
     @media screen and (max-width: $desktop - 1px){
         @content;
-	    div.col-is-6{
+	    div.col.is-6{
 	    width: 100%;
 	    }
     }
@@ -29,7 +29,7 @@ $desktop: 960px + (2 * $gap) !default;
 @mixin desktop() {
     @media screen and (min-width: $desktop){
         @content;
-	    div.col-is-6{
+	    div.col.is-6{
 	    width:220%
 	    }
     }
