@@ -21,6 +21,7 @@ $desktop: 960px + (2 * $gap) !default;
 @mixin touch() {
 	@media screen and (max-width: $desktop - 1px){
     	@content
+	width:auto;
 	}
 }
 
@@ -28,10 +29,6 @@ $desktop: 960px + (2 * $gap) !default;
 	@media screen and (min-width: $desktop){
     	@content
 	}
-}
-	  
-@media screen and (max-width: 320px) { 
- width:410.667px;
 }
 	  
 // Background
