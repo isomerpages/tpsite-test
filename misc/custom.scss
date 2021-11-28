@@ -19,20 +19,16 @@ $desktop: 960px + (2 * $gap) !default;
 // Mixins
 @mixin touch() {
     @media screen and (max-width: $desktop - 1px){
-        @content;
+        @content
     }
 }
 
 @mixin desktop() {
     @media screen and (min-width: $desktop){
-        @content;
+        @content
     }
 }
 	  
-div.custom{
-	font-size:18px;
-	width:900px
-}
 
 // Background
 .bg{
