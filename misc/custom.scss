@@ -30,7 +30,7 @@ $desktop: 960px + (2 * $gap) !default;
 @mixin desktop() {
 	@media screen and (min-width: $desktop){
     	@content;
-	.cus{
+	div.cus{
 		font-size:40px
 		}
 	}
