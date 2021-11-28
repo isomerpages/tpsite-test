@@ -36,7 +36,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <div class="a">+65 6788 1212<br><a
+      - other: <div class="custom">+65 6788 1212<br><a
           href="mailto:tsa@tp.edu.sg">tsa@tp.edu.sg</a><br>To access Part-Time
           Student Portal, please<a href="https://services.tp.edu.sg/"> click
           here</a> and select "CET Student Portal" after login.</div>
@@ -49,7 +49,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <div class="a">+65 6225 5744 <br> <a href="mailto:sii@tp.edu.sg">
+      - other: <div class="custom">+65 6225 5744 <br> <a href="mailto:sii@tp.edu.sg">
           sii@tp.edu.sg </a></div>
     title: Security Industry Institute
   - content:
@@ -60,8 +60,9 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <div class="a"> +65 6780 5772 <br> <a href="mailto:asklib@tp.edu.sg">
-          asklib@tp.edu.sg</a><br> To access LIBSearch, please <a
+      - other: <div class="custom"> +65 6780 5772 <br> <a
+          href="mailto:asklib@tp.edu.sg"> asklib@tp.edu.sg</a><br> To access
+          LIBSearch, please <a
           href="https://tp-libsearch.hosted.exlibrisgroup.com/primo-explore/search?vid=TPL&tab=lib_catalogue_tab&sortby=rank">
           click here. </a></div>
     title: Library
@@ -73,7 +74,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <div class="a">+65 6780 5353 <br> <a
+      - other: <div class="custom">+65 6780 5353 <br> <a
           href="mailto:alumni@tp.edu.sg">alumni@tp.edu.sg </a></div>
     title: " Alumnus "
   - content:
@@ -84,7 +85,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <div class="a">To view TP's vacancies, please <a
+      - other: <div class="custom">To view TP's vacancies, please <a
           href="https://cutt.ly/ZTnOKPa"> click here. </a> Interested
           applicants, please email your resumes to <a
           href="mailto:career@tp.edu.sg"> career@tp.edu.sg.</a><br>We regret to
@@ -98,8 +99,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <div class="a">To access TP LMS, please <a href="https://lms.tp.edu.sg/"
-          > click  here.</a></div>
+      - other: <div class="custom">To access TP LMS, please <a
+          href="https://lms.tp.edu.sg/" > click  here.</a></div>
     title: TP LMS
 agency_name: ""
 ---
