@@ -20,6 +20,9 @@ $desktop: 960px + (2 * $gap) !default;
 @mixin touch() {
     @media screen and (max-width: $desktop - 1px){
 	@content;
+	div.custom{
+	    width:100%;
+	}
     }
 }
 
@@ -31,6 +34,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 	  
 div.custom{
+     width:220%;
      font-size:18px;
      word-wrap: break-word;
 }
