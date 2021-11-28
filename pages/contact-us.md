@@ -6,8 +6,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: '<div style="@media(max-width:350px){width:auto};width:
-          450px;font-size:18px;">+65 6788 2000<br><a
+      - other: '<div style="width: 450px;font-size:18px;">+65 6788 2000<br><a
           href="mailto:enquiry@tp.edu.sg">enquiry@tp.edu.sg</a> (general
           enquiry)<br><a
           href="mailto:webmaster@tp.edu.sg">webmaster@tp.edu.sg</a>(enquiry/feedback
