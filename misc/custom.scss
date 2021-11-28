@@ -28,7 +28,12 @@ $desktop: 960px + (2 * $gap) !default;
         @content
     }
 }
-	  
+
+div.custom{
+     width:900px;
+     font-size:18px;
+}
+
 
 // Background
 .bg{
