@@ -38,7 +38,7 @@ contacts:
       - email: ""
       - other: <div class="a">+65 6788 1212<br><a
           href="mailto:tsa@tp.edu.sg">tsa@tp.edu.sg</a><br>To access Part-Time
-          Student Portal, please<a href="https://services.tp.edu.sg/">click
+          Student Portal, please<a href="https://services.tp.edu.sg/"> click
           here</a> and select "CET Student Portal" after login.</div>
     title: " Part-time Courses "
   - content:
