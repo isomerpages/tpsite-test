@@ -20,7 +20,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <div class="a">+65 6788 2000<br><a
+      - other: <div class="custom">+65 6788 2000<br><a
           href="mailto:admissions@tp.edu.sg">admissions@tp.edu.sg</a><br>To
           access Full-Time Student Portal, please<a
           href="https://services.tp.edu.sg/"> click here</a> and select "TP
