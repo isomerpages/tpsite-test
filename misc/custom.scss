@@ -21,7 +21,7 @@ $desktop: 960px + (2 * $gap) !default;
     @media screen and (max-width: $desktop - 1px){
         @content;
 	    div.custom{
-	    width: 100%;
+	    width: auto;
 	    }
     }
 }
