@@ -22,7 +22,7 @@ $desktop: 960px + (2 * $gap) !default;
 	@media screen and (max-width: $desktop - 1px){
     	@content;
 	div.cus{
-		font-size:40px
+		font-size: 40px;
 		}
 	}
 }
@@ -31,7 +31,7 @@ $desktop: 960px + (2 * $gap) !default;
 	@media screen and (min-width: $desktop){
     	@content;
 	div.cus{
-		font-size:40px
+		font-size: 40px;
 		}
 	}
 }
