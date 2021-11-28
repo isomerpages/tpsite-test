@@ -20,21 +20,13 @@ $desktop: 960px + (2 * $gap) !default;
 
 @mixin touch() {
 	@media screen and (max-width: $desktop - 1px){
-	@content,
-		div.a{
-		width:auto;
-		font-size: 15px;
-		}
+	@content
 	}
 }
 
 @mixin desktop() {
 	@media screen and (min-width: $desktop){
-	@content,
-		div.a{
-		width:900px;
-		font-size: 15px;
-		}
+	@content
 	}
 }
 	  
