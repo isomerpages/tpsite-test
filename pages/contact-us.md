@@ -6,7 +6,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: '<div style=" width: 1024px;font-size:18px;">+65 6788 2000 <br> <a
+      - other: '<div style=" width: 450px;font-size:18px;">+65 6788 2000 <br> <a
           href="mailto:enquiry@tp.edu.sg"> enquiry@tp.edu.sg </a> (general
           enquiry) <br> <a
           href="mailto:webmaster@tp.edu.sg">webmaster@tp.edu.sg</a>(enquiry/feedback
@@ -20,7 +20,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: '<div style=" width: 1024px;font-size:18px;"> +65 6788 2000<br> <a
+      - other: '<div style=" width: 736px;font-size:18px;"> +65 6788 2000<br> <a
           href="mailto:admissions@tp.edu.sg">admissions@tp.edu.sg </a> <br>To
           access Full-Time Student Portal, please <a
           href="https://services.tp.edu.sg/">click here </a> and select "TP
@@ -36,7 +36,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: '<div style=" width: 1024px;font-size:18px;">+65 6788 1212 <br> <a
+      - other: '<div style=" width: 748px;font-size:18px;">+65 6788 1212 <br> <a
           href="mailto:tsa@tp.edu.sg"> tsa@tp.edu.sg </a> <br> To access
           Part-Time Student Portal, please <a href="https://services.tp.edu.sg/"
           >click here</a> and select "CET Student Portal" after login.</div>'
@@ -49,7 +49,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: '<div  style=" width: 1024px;font-size:18px;"> +65 6225 5744 <br> <a
+      - other: '<div  style=" width: 748pxpx;font-size:18px;"> +65 6225 5744 <br> <a
           href="mailto:sii@tp.edu.sg"> sii@tp.edu.sg </a></div>'
     title: Security Industry Institute
   - content:
