@@ -28,12 +28,6 @@ $desktop: 960px + (2 * $gap) !default;
     @media screen and (min-width: $desktop){
 	 @content;
     }
-    @media screen and (min-width: $desktop){
-	    div.a{
-	    width:900px;
-            font-size: 18px;
-	    }
-    }
 } 
 
 
