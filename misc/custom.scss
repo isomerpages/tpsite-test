@@ -32,16 +32,6 @@ $desktop: 960px + (2 * $gap) !default;
     }
 }
 */
-
-@media screen and (max-width: $desktop - 1px){
-	
-}	  
-	  
-@media screen and (min-width: $desktop){
-	div.custom{
-	width:220%;	
-	}
-}
 	  
 div.custom{
      font-size:18px;
