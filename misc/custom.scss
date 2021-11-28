@@ -21,8 +21,8 @@ $desktop: 960px + (2 * $gap) !default;
 @mixin touch() {
 	@media screen and (max-width: $desktop - 1px){
     	@content;
-	.cus{
-		font-size:18px
+	div.cus{
+		font-size:40px
 		}
 	}
 }
@@ -31,7 +31,7 @@ $desktop: 960px + (2 * $gap) !default;
 	@media screen and (min-width: $desktop){
     	@content;
 	.cus{
-		font-size:18px
+		font-size:40px
 		}
 	}
 }
