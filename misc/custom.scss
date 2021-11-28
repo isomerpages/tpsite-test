@@ -24,12 +24,15 @@ $desktop: 960px + (2 * $gap) !default;
     }
 }
 
-@media screen and (min-width: $desktop){
+@mixin touch() {
+    @media screen and (min-width: $desktop){
 	div.cus{
         width:900px;
         font-size: 18px;
         }
     }
+}
+
 
 
 // Background
