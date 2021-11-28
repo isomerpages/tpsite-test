@@ -34,9 +34,7 @@ $desktop: 960px + (2 * $gap) !default;
 */
 
 @media screen and (max-width: $desktop - 1px){
-	div.custom{
-	width:95%;
-	}
+	
 }	  
 	  
 @media screen and (min-width: $desktop){
