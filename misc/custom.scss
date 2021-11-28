@@ -38,6 +38,10 @@ div.custom{
      font-size:18px;
      word-wrap: break-word;
 }
+	
+section.bp-section is-small bp-section-pagetitle{
+     display:none;
+}
 
 
 // Background
