@@ -12,5 +12,5 @@ sections:
         - title: Maintenance page
           description: This Temasek Polytechnic website/service is undergoing system
             maintenance.
-          url: /maintenance
+          url: /contact-us
 ---
