@@ -39,9 +39,6 @@ $desktop: 960px + (2 * $gap) !default;
  div.custom{
     width: max-content;
  }
- div.col.is-6{
-    width: max-content;
- }
 }
 
 	  
@@ -61,7 +58,7 @@ a.bp-button.is-text.is-large{
 }
 	  
 div.col.is-6{
-     max-width:900px;
+     width:900px;
 }
 	  
 	
