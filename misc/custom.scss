@@ -23,6 +23,9 @@ $desktop: 960px + (2 * $gap) !default;
 	div.custom{
 	    width:auto;
 	}
+	div.col.is-6{
+	    width:auto;    
+	}
     }
 }
 
@@ -34,6 +37,9 @@ $desktop: 960px + (2 * $gap) !default;
 	  
 @media screen and (min-width: $desktop){
  div.custom{
+    width: max-content;
+ }
+ div.col.is-6{
     width: max-content;
  }
 }
@@ -52,6 +58,10 @@ a.bp-button.is-text.is-large{
 	  	  
 .bp-section:nth-child(1){
      display:none;	  
+}
+	  
+div.col.is-6{
+     max-width:900px;
 }
 	  
 	
