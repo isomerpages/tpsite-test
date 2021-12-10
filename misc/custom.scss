@@ -41,26 +41,22 @@ $desktop: 960px + (2 * $gap) !default;
 	  
 div.custom{
      max-width:900px;
-     font-size:14px;
+     font-size:12px;
      word-wrap: break-word;
+     color: black;
 }
 	 
 a.bp-button.is-text.is-large{
      display:none;
 }
-	  
-
-h1.display.has-text-weight-semibold{
-     display:none;
-}
-
-div.row.is-inverted{
-     display:none;	  
-}
-	 
-	  
+	  	  
 .bp-section:nth-child(1){
      display:none;	  
+}
+	  
+p.has-text-weight-semibold margin--top--none margin--bottom--none{
+     font-size:12px;
+     color: black;
 }
 	
 
