@@ -105,10 +105,10 @@ contacts:
 agency_name: ""
 locations:
   - address:
-      - ""
-      - ""
-      - ""
-    title: Maintenance-in-Progress
+      - "This Temasek Polytechnic "
+      - "website/service is undergoing "
+      - undergoing system maintenance.
     operating_hours: []
     maps_link: ""
+    title: Maintenance-in-Progress
 ---
