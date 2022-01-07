@@ -103,4 +103,12 @@ contacts:
           href="https://lms.tp.edu.sg/" > click  here.</a></div>
     title: TP LMS
 agency_name: ""
+locations:
+  - address:
+      - ""
+      - ""
+      - ""
+    title: Maintenance-in-Progress
+    operating_hours: []
+    maps_link: ""
 ---
