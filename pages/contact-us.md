@@ -106,9 +106,13 @@ agency_name: ""
 locations:
   - address:
       - "This Temasek Polytechnic "
-      - "website/service is undergoing "
-      - undergoing system maintenance.
-    operating_hours: []
+      - website/service is under
+      - "system maintenance. We "
+    operating_hours:
+      - days: ""
+        time: ""
+        description: This Temasek Polytechnic website/service is under maintenance. We
+          apologise for the inconvenience.
     maps_link: ""
     title: Maintenance-in-Progress
 ---
