@@ -77,6 +77,10 @@ p.margin--top--none{
      color:black;
 }
 
+p.margin--top--none::first-line{
+     display:none;	  
+}
+
 
 	  
 	
