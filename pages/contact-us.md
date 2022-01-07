@@ -105,9 +105,9 @@ contacts:
 agency_name: ""
 locations:
   - address:
-      - "This Temasek Polytechnic "
-      - website/service is under
-      - "system maintenance. We "
+      - ""
+      - ""
+      - ""
     operating_hours:
       - days: ""
         time: ""
