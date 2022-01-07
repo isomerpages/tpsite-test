@@ -1,6 +1,6 @@
 ---
 layout: contact_us
-title: Contact Us
+title: Maintenance
 permalink: /maintenance/
 contacts:
   - content:
