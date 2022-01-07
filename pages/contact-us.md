@@ -1,7 +1,7 @@
 ---
 layout: contact_us
 title: Maintenance
-permalink: /maintenance/
+permalink: /maintenance
 contacts:
   - content:
       - phone: ""
