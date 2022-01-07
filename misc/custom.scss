@@ -80,6 +80,10 @@ p.margin--top--none{
 p.margin--top--none::first-line{
      color:transparent;	  
 }
+	  
+p.margin--top--none.margin--bottom--none::first-line{
+     color:black;	  
+}
 
 
 	  
