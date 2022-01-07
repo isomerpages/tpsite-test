@@ -54,6 +54,10 @@ a.bp-button.is-text.is-large{
      display:none;	  
 }
 	  
+.col.is-6:nth-child(3){
+     display:none;	  
+}
+	  
 div.col.is-6{
      width:900px;
 }
@@ -85,6 +89,12 @@ p.margin--top--none.margin--bottom--none::first-line{
      font-size:15px;
      color:black;	  
 }
+	  
+div.row.is-multiline.margin--bottom--lg{
+     display:none;	  
+}
+	  
+	  
 
 
 	  
