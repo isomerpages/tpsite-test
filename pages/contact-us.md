@@ -103,4 +103,16 @@ contacts:
           href="https://lms.tp.edu.sg/" > click  here.</a></div>
     title: TP LMS
 agency_name: ""
+locations:
+  - address:
+      - ""
+      - ""
+      - ""
+    title: Maintenance-In-Progress
+    operating_hours:
+      - days: ""
+        time: ""
+        description: This Temasek Polytechnic website/service is under maintenance. We
+          apologise for the inconvenience.
+    maps_link: ""
 ---
