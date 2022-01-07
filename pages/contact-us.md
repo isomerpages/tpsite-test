@@ -110,7 +110,7 @@ locations:
       - ""
     operating_hours:
       - days: remove this
-        time: remove this
+        time: hidden
         description: This Temasek Polytechnic website/service is under maintenance. We
           apologise for the inconvenience.
     maps_link: ""
